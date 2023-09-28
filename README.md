@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @keyur7523 (Keyur Pawaskar).
-- 👀 I’m interested in UI/UX, Photoshop, Illustartor.
-- 🌱 I’m currently learning Parallax animations in Website Designing.
+- 👀 I’m interested in software development, backend development.
+- 🌱 Python, Java, C++.
 - 📫 Reach me at pawaskarkeyur96@gmail.com
