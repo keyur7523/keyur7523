@@ -47,5 +47,5 @@ Software Engineer | AI / Full-Stack | Building real-world systems
 ---
 
 📫 Reach me:  
-- LinkedIn: <your-link>  
-- Email: <your-email>
+- LinkedIn: https://www.linkedin.com/in/keyur-pawaskar-7b05b6169/  
+- Email: codekeyur7523@gmail.com
