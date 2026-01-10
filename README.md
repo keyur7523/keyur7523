@@ -1,51 +1,59 @@
 # Hi, I'm Keyur 👋
 
-Software Engineer | AI / Full-Stack | Building real-world systems
+Software Engineer | AI & Full-Stack | Building production-grade systems
 
 ---
 
 ## 🚀 What I Do
-- Build **production-grade AI & full-stack systems**
-- Focus on **clean architecture, scalability, and impact**
-- Experience with **Python, TypeScript, React, Flask, LLMs, AWS**
+- Build **scalable, production-grade AI and full-stack systems**
+- Focus on **clean architecture, reliability, and real-world impact**
+- Work across **backend platforms, AI workflows, and modern web stacks**
 
 ---
 
 ## 🧠 Notable Projects
 
-### 🔹 HAVA – Clinical AI Scribe & Productivity Suite
-- AI-powered dictation → structured medical summaries
-- Chrome Extension (JS) + Flask backend
-- HIPAA-aligned architecture, MongoDB, AWS S3
-- Used in real clinical workflows
+### 🔹 HAVA — Clinical AI Scribe & Productivity Platform
+- AI-powered clinical dictation system converting voice input into structured medical summaries
+- Chrome Extension frontend with a Python Flask backend for real-time clinical workflows
+- HIPAA-aligned architecture with secure data handling using MongoDB and AWS S3
+- Designed and used in real clinical environments to improve documentation efficiency
 
-### 🔹 EduSummarizer
-- AI tutor for students: lectures → summaries, flashcards, quizzes
-- Next.js + Flask + Vector DB (Qdrant)
-- RAG pipelines and multi-agent workflows
+---
 
-### 🔹 Automation & Internal Tools
-- Built workflow automations to reduce manual effort
-- Focus on reliability, clarity, and maintainability
+### 🔹 PromptLab — LLM Experimentation & Evaluation Platform
+- Production-grade AI chat platform for deploying, testing, and improving LLM behavior
+- Real-time streaming responses (SSE) with deterministic A/B experimentation
+- Persistent conversations, structured user feedback, and variant-level evaluation signals
+- Built with FastAPI, PostgreSQL, Redis, and a lightweight React frontend
+
+---
+
+### 🔹 DeepSearch — Agentic Research Assistant
+- Multi-agent AI research system for analyzing and synthesizing complex documents
+- Agent-based architecture for retrieval, reasoning, summarization, and citation generation
+- Designed for deep technical and academic research workflows
+- Emphasizes automation, structured outputs, and explainable reasoning
 
 ---
 
 ## 🛠 Tech Stack
 **Languages:** Python, TypeScript, JavaScript, SQL  
-**Frontend:** React, Next.js, Tailwind  
-**Backend:** Flask, REST APIs  
-**AI:** LLMs, RAG, LangChain/LangGraph  
-**Infra:** AWS, Docker, MongoDB, Postgres  
+**Backend:** FastAPI, Flask, REST APIs, Node.js, NestJS  
+**Frontend:** React, Next.js, Tailwind CSS  
+**AI / ML:** LLMs, RAG, LangChain, LangGraph  
+**Infra & Data:** AWS, Docker, PostgreSQL, MongoDB, Redis    
 
 ---
 
 ## 📌 What I Care About
-- Turning **complex problems into simple systems**
-- Writing code that other engineers enjoy maintaining
-- Shipping fast without breaking fundamentals
+- Turning **complex problems into simple, maintainable systems**
+- Writing code that other engineers enjoy reading and extending
+- Shipping quickly without compromising fundamentals
 
 ---
 
-📫 Reach me:  
-- LinkedIn: https://www.linkedin.com/in/keyur-pawaskar-7b05b6169/  
-- Email: codekeyur7523@gmail.com
+📫 Reach me  
+- 🌐 Website: https://keyur-portfolio-psi.vercel.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/keyur-pawaskar-7b05b6169  
+- ✉️ Email: codekeyur7523@gmail.com
