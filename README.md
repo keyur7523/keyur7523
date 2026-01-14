@@ -37,6 +37,13 @@ Software Engineer | AI & Full-Stack | Building production-grade systems
 
 ---
 
+### 🔹 Probekit — Behavioral Evaluation Toolkit for LLM Prompts
+- Multi‑model evaluation engine with cost/latency tracking across GPT/Claude/Ollama
+- Evaluator suite for instruction adherence, hallucinations, stability, refusal behavior, and format consistency
+- Regression detection + version comparison dashboards with human annotation accuracy tracking
+
+---
+
 ## 🛠 Tech Stack
 **Languages:** Python, TypeScript, JavaScript, SQL  
 **Backend:** FastAPI, Flask, REST APIs, Node.js, NestJS  
