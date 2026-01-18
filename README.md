@@ -44,6 +44,14 @@ Software Engineer | AI & Full-Stack | Building production-grade systems
 
 ---
 
+### 🔹 HireTrack — Job Application Tracking Platform
+- Multi-tenant hiring platform supporting applicant job search, employer pipeline management, and admin oversight
+- Secure JWT authentication with granular RBAC enforcing strict data isolation between organizations
+- Fault-tolerant application processing with Redis idempotency, DB uniqueness constraints, and audit logging
+- Production-ready architecture with auto-migrations on startup, async PostgreSQL, and environment-based CORS
+
+---
+
 ## 🛠 Tech Stack
 **Languages:** Python, TypeScript, JavaScript, SQL  
 **Backend:** FastAPI, Flask, REST APIs, Node.js, NestJS  
