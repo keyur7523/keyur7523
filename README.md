@@ -78,11 +78,20 @@ An AI assistant you can actually give real permissions to. Every action is visib
 
 ## Tech Stack
 
-**Languages:** Python · TypeScript · JavaScript · SQL · Rust (microservice)
-**Backend:** FastAPI · Flask · Node.js · Express · NestJS · REST · SSE/WebSockets
-**Frontend:** React · Next.js · Tailwind CSS
-**AI/ML:** LLM APIs (Anthropic, OpenAI, Gemini) · RAG & vector search (Chroma) · LangChain · agent evaluation
-**Infra & Data:** PostgreSQL · MongoDB · Redis · AWS · Docker · CI/CD
+**Languages**  
+Python · TypeScript · JavaScript · SQL · Rust (microservice)
+
+**Backend**  
+FastAPI · Flask · Node.js · Express · NestJS · REST · SSE/WebSockets
+
+**Frontend**  
+React · Next.js · Tailwind CSS
+
+**AI/ML**  
+LLM APIs (Anthropic, OpenAI, Gemini) · RAG & vector search (Chroma) · LangChain · agent evaluation
+
+**Infra & Data**  
+PostgreSQL · MongoDB · Redis · AWS · Docker · CI/CD
 
 ---
 
