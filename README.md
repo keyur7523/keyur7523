@@ -16,6 +16,42 @@ Most AI demos answer *"can it do the thing?"* I'm more interested in *"how do we
 
 ---
 
+## Experience
+
+### Full-Stack Developer (AI-Focused) — Heart, Artery & Vein Center of Fresno
+*Aug 2025 – Present · Fresno, CA*
+
+The only developer at a cardiovascular practice, building AI systems that clinical staff use every day.
+
+- Designed and shipped a **clinical AI scribe** — OpenAI speech-to-text with a MongoDB-backed correction system, three-tier paraphrasing via LangChain + GPT-4 Turbo, and SOAP-formatted note generation. **Cut a 20-minute manual workflow to 2–3 minutes.**
+- Built a **Chrome extension (Manifest V3) that automates a legacy, API-less EHR** — reverse-engineered its nested framesets and undocumented client functions, and bridged Chrome's content-script isolation with a CSP-compliant page-context injector to drive multi-step workflows directly in the DOM.
+- Automated a daily chart-review workflow: pulls the next-day schedule, opens each chart, detects unsigned provider notes, and exports a PDF worklist — replacing a manual per-chart audit.
+- Built fault-tolerant Python/Flask services with async workers, queue-based execution, and S3-backed storage, plus telemetry and audit logs for observability and accountability.
+
+### Graduate Research Assistant, Hibiki AI — California State University, Fresno
+*Jan 2025 – May 2025 · Fresno, CA*
+
+- Developed React operational interfaces for interacting with distributed backend services
+- Designed secure, reliable communication patterns between frontend clients and backend systems
+- Refactored the client architecture to support faster iteration, **cutting feature delivery time 30%**
+
+### Python Developer — YouGov
+*Sep 2021 – Jul 2023 · Mumbai, India*
+
+- Built and maintained survey application systems in Gryphon (a Python-based proprietary tool) and JavaScript for enterprise clients
+- Built automation tooling that **reduced manual coding from 6–20 hours to single-click operations**
+- Optimized internal data pipelines with asynchronous processing and caching; designed reusable modules to improve consistency across projects
+- Worked with cross-functional client teams to translate business requirements into technical specifications
+
+---
+
+## Education
+
+**MS, Computer Science** — California State University, Fresno · 2023–2025 · GPA 3.91/4.0  
+**BE, Information Technology** — K. J. Somaiya Institute, Mumbai University · 2016–2020
+
+---
+
 ## Projects
 
 ### [Northwind Support Agent](https://github.com/keyur7523/rag-assistant) — Multi-Tool AI Agent with Automated Evaluation
